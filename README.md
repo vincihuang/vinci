@@ -1,0 +1,2 @@
+# vinci
+Data lengkap pengeluaran
